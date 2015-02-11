@@ -4,6 +4,17 @@
 */
 
 
+.modal  {
+	background: rgba(13,196,217,.75);
+
+}
+
+
 /* 
 	* Override color of Greeting/Heading to `rgb(13,196,217)`
 */
+
+
+.ui .modal .header {
+	color: rgb(13,196,217);
+}
